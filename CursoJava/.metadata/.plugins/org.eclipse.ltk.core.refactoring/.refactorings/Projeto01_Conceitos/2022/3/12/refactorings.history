@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Projeto01_Conceitos/src/br.com.impacta&apos;&#x0D;&#x0A;- Original project: &apos;Projeto01_Conceitos&apos;&#x0D;&#x0A;- Destination element: &apos;Projeto01_Conceitos/src/br.com.impacta&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     PrimeiroPrograma.java&#x0D;&#x0A;     SegundoPrograma.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;br.com.impacta" element1="/src&lt;{PrimeiroPrograma.java" element2="/src&lt;{SegundoPrograma.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1647303339346" units="2" version="1.0"/>
+</session>

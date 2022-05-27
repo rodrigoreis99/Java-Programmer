@@ -1,0 +1,11 @@
+INDEX VERSION 1.130+F:\Impacta\Java Programmer\CursoJava\.metadata\.plugins\org.eclipse.jdt.core
+3384513373.index
+705842219.index
+1062067749.index
+2242306030.index
+2780947430.index
+700805571.index
+1170073672.index
+3968348704.index
+714643998.index
+487881596.index

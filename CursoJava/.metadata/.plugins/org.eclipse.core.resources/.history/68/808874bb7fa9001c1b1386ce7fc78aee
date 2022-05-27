@@ -1,0 +1,29 @@
+package com.br.impacta.classes;
+
+public class Automovel {
+	
+	//atributos
+	public String marca;
+	public String modelo;
+	public int ano;
+	public String placa;
+	
+	
+	public void mostrar() {
+		System.out.println(marca);
+		System.out.println(modelo);
+		System.out.println(ano);
+		System.out.println(placa);
+	}
+	
+	//This referencia a propria classe
+	// é uma referencia que serve para termos acesso a todos os atributos da classe.(atributos e metodos)
+	// toda classe possui um this( identifica info que fazem parte da classe) 
+	
+	public void lerDados(String marca, String modelo, int ano, String placa) {
+		this.marca = marca ;
+		this.modelo = modelo;
+		this.ano =  ano;
+		this.placa = placa  ; 
+	}
+}

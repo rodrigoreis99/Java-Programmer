@@ -1,0 +1,10 @@
+package br.com.impacta.aplicacao;
+
+public class AppArray02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

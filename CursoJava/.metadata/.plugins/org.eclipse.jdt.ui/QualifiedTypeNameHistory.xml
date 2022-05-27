@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.scripts.JO"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="br.com.impacta.utilitarios.Utilitarios"/>
+    <fullyQualifiedTypeName name="com.br.impacta.classes.Automovel"/>
+    <fullyQualifiedTypeName name="sun.nio.cs.ext.MacThai"/>
+    <fullyQualifiedTypeName name="br.com.impacta.classes.Funcionario"/>
+    <fullyQualifiedTypeName name="br.com.impacta.classes.Curso"/>
+    <fullyQualifiedTypeName name="br.com.impacta.classes.Aluno"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="br.com.impacta.classes.ProdutoImportado"/>
+    <fullyQualifiedTypeName name="br.com.impacta.enumeracoes.Sexo"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;br.com.impacta.exercicios&apos; to &apos;Projeto04_Estruturas/src/br.com.impacta.comandoif&apos;&#x0D;&#x0A;- Original project: &apos;Projeto03_Operadores&apos;&#x0D;&#x0A;- Destination element: &apos;Projeto04_Estruturas/src/br.com.impacta.comandoif&apos;&#x0D;&#x0A;- Original element: &apos;Projeto03_Operadores/src/br.com.impacta.exercicios&apos;" description="Copy package" destination="=Projeto04_Estruturas/src&lt;br.com.impacta.comandoif" element1="/src&lt;br.com.impacta.exercicios" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1647557481376" version="1.0"/>
+</session>

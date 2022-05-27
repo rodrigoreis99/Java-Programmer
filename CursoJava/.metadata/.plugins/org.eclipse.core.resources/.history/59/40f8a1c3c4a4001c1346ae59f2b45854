@@ -1,0 +1,24 @@
+package br.com.impacta.leitura;
+
+import javax.swing.JOptionPane;
+
+
+public class LeituraDados {
+	
+	public static void main(String[] args) {
+		
+		String usuario = JOptionPane.showInputDialog( "Qual é o seu Nome? ");
+		//JOptionPane.showMessageDialog(null, "Olá " + usuario + " seja bem vindo ao JavaProgrammer");
+		System.out.println("Seu nome: " + usuario);
+		
+		int idade = Integer.parseInt(JOptionPane.showInputDialog("Qual sua idade " + usuario + "?"));
+		//JOptionPane.showMessageDialog(null, usuario + " você tem " + idade );
+		
+		double altura = Double.parseDouble(JOptionPane.showInputDialog("Qual sua altura? " + usuario));
+		//JOptionPane.showMessageDialog(null, usuario + "você tem" + altura + "cm de altura");
+		
+		String resposta = "Seu nome é: " + usuario + " a sua idade é: " + idade + " sua altura é " + altura
+				JOptionPane.showMessageDialog(null, resposta);
+	}
+
+}
